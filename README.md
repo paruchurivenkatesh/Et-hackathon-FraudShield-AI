@@ -154,8 +154,6 @@ Et-hackathon-FraudShield-AI/
 
 │   ├── postcss.config.mjs
 
-│   ├── README.md
-
 │   ├── tailwind.config.ts
 
 │   └── tsconfig.json
