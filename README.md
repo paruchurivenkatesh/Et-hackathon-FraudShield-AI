@@ -33,7 +33,6 @@ This project serves as a comprehensive dashboard for Citizens, Police, Cyber Cri
 ## Project Structure
 
 Et-hackathon-FraudShield-AI/
-
 ├── backend/
 │   ├── main.py
 │   └── requirements.txt
@@ -129,21 +128,18 @@ cd Et-hackathon-FraudShield-AI
 ### Step 2: Install Required Dependencies
 
 **For the Backend (Python/FastAPI):**
-Open a terminal and run:
+Open a terminal at the project root (`Et-hackathon-FraudShield-AI`) and run:
 ```bash
 cd backend
 python -m venv venv
 venv\Scripts\activate      # On Windows
-pip install -r requirements.txt
-```
+# OR: source venv/bin/activate  # On macOS/Linux
 
-If you need to install them manually:
-```bash
 pip install fastapi uvicorn pydantic python-multipart
 ```
 
 **For the Frontend (Next.js):**
-Open a new terminal window and run:
+Open a **new** terminal window at the project root (`Et-hackathon-FraudShield-AI`) and run:
 ```bash
 cd frontend
 npm install
@@ -153,16 +149,15 @@ npm install
 
 Execute the following commands in their respective terminals:
 
-**Start the Backend Server:**
+**Start the Backend Server (Terminal 1):**
 ```bash
-cd backend
-venv\Scripts\activate
+# Assuming you are still in the backend folder with the venv activated
 uvicorn main:app --reload
 ```
 
-**Start the Frontend Server:**
+**Start the Frontend Server (Terminal 2):**
 ```bash
-cd frontend
+# Assuming you are still in the frontend folder
 npm run dev
 ```
 
