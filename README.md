@@ -33,133 +33,69 @@ This project serves as a comprehensive dashboard for Citizens, Police, Cyber Cri
 ## Project Structure
 
 Et-hackathon-FraudShield-AI/
-
 ├── backend/
-
 │   ├── main.py
-
 │   └── requirements.txt
-
 ├── frontend/
-
 │   ├── public/
-
 │   │   ├── file.svg
-
 │   │   ├── globe.svg
-
 │   │   ├── next.svg
-
 │   │   ├── vercel.svg
-
 │   │   └── window.svg
-
 │   ├── src/
-
 │   │   ├── app/
-
 │   │   │   ├── citizen-shield/
-
 │   │   │   │   └── page.tsx
-
 │   │   │   ├── counterfeit/
-
 │   │   │   │   └── page.tsx
-
 │   │   │   ├── digital-arrest/
-
 │   │   │   │   └── page.tsx
-
 │   │   │   ├── heatmap/
-
 │   │   │   │   └── page.tsx
-
 │   │   │   ├── live/
-
 │   │   │   │   └── page.tsx
-
 │   │   │   ├── network/
-
 │   │   │   │   └── page.tsx
-
 │   │   │   ├── settings/
-
 │   │   │   │   └── page.tsx
-
 │   │   │   ├── favicon.ico
-
 │   │   │   ├── globals.css
-
 │   │   │   ├── layout.tsx
-
 │   │   │   └── page.tsx
-
 │   │   ├── components/
-
 │   │   │   ├── layout/
-
 │   │   │   │   ├── Shell.tsx
-
 │   │   │   │   ├── Sidebar.tsx
-
 │   │   │   │   └── Topbar.tsx
-
 │   │   │   ├── ui/
-
 │   │   │   │   ├── avatar.tsx
-
 │   │   │   │   ├── badge.tsx
-
 │   │   │   │   ├── button.tsx
-
 │   │   │   │   ├── card.tsx
-
 │   │   │   │   ├── dialog.tsx
-
 │   │   │   │   ├── dropdown-menu.tsx
-
 │   │   │   │   ├── input.tsx
-
 │   │   │   │   ├── label.tsx
-
 │   │   │   │   ├── progress.tsx
-
 │   │   │   │   ├── skeleton.tsx
-
 │   │   │   │   ├── sonner.tsx
-
 │   │   │   │   ├── table.tsx
-
 │   │   │   │   └── tabs.tsx
-
 │   │   │   ├── MapComponent.tsx
-
 │   │   │   └── NetworkGraph.tsx
-
 │   │   └── lib/
-
 │   │       └── utils.ts
-
 │   ├── components.json
-
 │   ├── eslint.config.mjs
-
 │   ├── next-env.d.ts
-
 │   ├── next.config.ts
-
 │   ├── package-lock.json
-
 │   ├── package.json
-
 │   ├── postcss.config.mjs
-
 │   ├── tailwind.config.ts
-
 │   └── tsconfig.json
-
 └── README.md
-
 ---
 
 ## Installation
