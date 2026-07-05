@@ -213,6 +213,6 @@ This project demonstrates the powerful intersection of modern web development an
 
 ## Author & Team
 
-Paruchuri Venkatesh
-Katta.S.V.S Kalyan
-Thota Shanmukh Vaghu Vamsi
+- Paruchuri Venkatesh
+- Katta.S.V.S Kalyan
+- Thota Shanmukh Vaghu Vamsi
