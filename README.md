@@ -215,4 +215,4 @@ This project demonstrates the powerful intersection of modern web development an
 
 - Paruchuri Venkatesh
 - Katta.S.V.S Kalyan
-- Thota Shanmukh Vaghu Vamsi
+- Thota Shanmukh Raghu Vamsi
