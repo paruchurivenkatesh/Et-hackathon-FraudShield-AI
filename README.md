@@ -32,6 +32,7 @@ This project serves as a comprehensive dashboard for Citizens, Police, Cyber Cri
 
 ## Project Structure
 
+```text
 Et-hackathon-FraudShield-AI/
 ├── backend/
 │   ├── main.py
@@ -96,6 +97,8 @@ Et-hackathon-FraudShield-AI/
 │   ├── tailwind.config.ts
 │   └── tsconfig.json
 └── README.md
+```
+
 ---
 
 ## Installation
